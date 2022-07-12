@@ -1,0 +1,17 @@
+{
+    "version": "1.0.0",
+    "pluginName": "Assembly Language Docs",
+    "description": "x86 and amd64 instruction reference for utools",
+    "author": "bex",
+    "preload": "preload.js",
+    "logo": "logo.png",
+    "platform": ["win32", "darwin", "linux"],
+    "features": [
+        {
+            "code": "Assembly",
+            "explain": "x86 and amd64 instruction reference Quick Search",
+            "cmds": ["asm","assembly"]
+        }
+    ]
+    
+}
