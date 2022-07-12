@@ -1,4 +1,4 @@
-# utools_assembly_doc
+# utools_assembly_docs
 
 An utools plugin that facilitates the X86 and AMD64 Instrument Reference
 
